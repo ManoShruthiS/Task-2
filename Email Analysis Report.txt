@@ -1,0 +1,11 @@
+Phishing Email Analysis Report
+
+1. Sender email is suspicious: support@paypa1.com
+2. Greeting is generic: “Dear Customer”
+3. Link is misleading: goes to secure-paypa1.com
+4. Urgent language used: “verify within 24 hours”
+5. Threat of suspension to create panic
+6. No personal information or account details
+
+Conclusion:
+This email is likely a phishing attempt designed to trick users into entering their login credentials on a fake website.
